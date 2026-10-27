@@ -12,4 +12,4 @@ git config --global user.name
 
 echo "Email:"
 git config --global user.email
-`
+
